@@ -232,8 +232,8 @@ export default function Footer() {
           </span>
           <span className="ft-credit">
             Made by{" "}
-            <a href="https://voltanyc.org/" target="_blank" rel="noreferrer">
-              Volta
+            <a href="https://www.novusnyc.org/" target="_blank" rel="noreferrer">
+              Novus
             </a>
           </span>
         </div>

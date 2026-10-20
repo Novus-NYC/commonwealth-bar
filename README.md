@@ -103,7 +103,7 @@ pnpm run build
 - [ ] Replace favicon + assets in `public/`
 - [ ] Update `remotePatterns` in `next.config.ts` with correct image hostname
 - [ ] Update SEO metadata (title, description, OG image)
-- [ ] Update footer credit link (`@VoltaNYC`) if needed
+- [ ] Update footer credit link (Novus) if needed
 
 ---
 
@@ -122,4 +122,4 @@ pnpm run build
 
 ---
 
-*Made by [@VoltaNYC](https://nyc.voltanpo.org)*
+*Made by [Novus](https://www.novusnyc.org/)*
